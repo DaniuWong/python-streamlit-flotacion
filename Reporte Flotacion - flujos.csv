@@ -1,0 +1,14 @@
+﻿Flujos,Au,Ag,Pb,Zn,Cu,Fe,As
+Alim. Generales,P80 (micras),TONS/DIA  HUMEDAS,% HUMEDAD,TONS/DIA  SECAS,HORAS,,
+Alim. Leyes,Gcab-Au,Gcab-Ag,Gcab-Pb,Gcab-Zn,Gcab-Cu,Gcab-Fe,Gcab-As
+Alim. Especies Pb y Zn,Gcab-Pb ox,Gcab-Zn ox,Gcab-PbS,Gcab-PbO,Gcab-ZnS,Gcab-ZnO,
+Concentrado Cu,Gcu-Au,Gcu-Ag,Gcu-Pb,Gcu-Zn,Gcu-Cu,Gcu-Fe,Gcu-As
+C. Cu Recuperación,Rcu-Au,Rcu-Ag,Rcu-Pb,Rcu-Zn,Rcu-Cu,Rcu-Fe,Rcu-As
+Concentrado Pb,GPb-Au,GPb-Ag,GPb-Pb,GPb-Zn,GPb-Cu,GPb-Fe,GPb-As
+C. Pb Recuperación,RPb-Au,RPb-Ag,RPb-Pb,RPb-Zn,RPb-Cu,RPb-Fe,RPb-As
+C. Pb Especies Pb y Zn,GPb-Pb ox,GPb-Zn ox,GPb-PbS,GPb-PbO,GPb-ZnS,GPb-ZnO,
+Concentrado Zn,GCzn-Au,GCzn-Ag,GCzn-Pb,GCzn-Zn,GCzn-Cu,GCzn-Fe,GCzn-As
+C. Zn Recuperación,Rzn-Au,Rzn-Ag,Rzn-Pb,Rzn-Zn,Rzn-Cu,Rzn-Fe,Rzn-As
+Relaves,GC-Au,GC-Ag,GC-Pb,GC-Zn,GC-Cu,GC-Fe,GC-As
+Relaves Especies Pb y Zn,GC-Pb ox,GC-Zn ox,GC-PbS,GC-PbO,GC-ZnS,GC-ZnO,
+Planta Recuperación,R-Au,R-Ag,R-Pb,R-Zn,R-Cu,R-Fe,R-As
